@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">TourGuideApp-Oradea</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="OradeaFortress_title">Oradea Fortress</string>
+    <string name="fortress_description">The Oradea Fortress is the most famous building of Oradea, with an almost millenary history,
+        the first signs dating its setup are during the Hungarian King Ladislaus I (1077-1095).
+        The fortress is the city\’s emblematic symbol and an historical masterpiece.
+ \n\n The Oradea Fortress is unique in Eastern Europe through its complex architectural old
+        Italian and military-style fortified bastions kept relatively good condition.</string>
+    <string name="oradea_bazar_tilte"> Oradea Bazar</string>
+    <string name="oradea_bazar_description">Here was the first cinema, the Edison Theater,
+        which had arranged the chairs in the amphitheater, and an English buffet.
+        \n\n Now, after more than 100 years, the situation seems little changed.
+        This building houses shops, the Irish Pub Restaurant, and in the passage between the
+        Republic Square Theater Square, there are book sellers.
+\n\n In the center, the pedestrian passage is dominated by a very decorated tympanum in its upper part,
+        still preserving the city\'s emblem.</string>
+    <string name="house_adorjan1_title"> Adorjan House I</string>
+    <string name="house_adorjan1_description">located in the extension of the Theater Depot,
+        on its left side, on Str. Patriots corner with Str. Moscow, was built in 1903 by Sztarill Ferencz
+        according to the plans of architects Komor Marcell and Jakab Dezső. The secession style,
+        loaded and heavy, with great importance for the loading of details, is "complete" by appealing to folkloric
+        ornamental solutions.</string>
+    <string name="adorjan_house2_title">Adorjan House II</string>
+    <string name="adorjan_house2_description">The facade of the building is richly ornamented,
+        the frontispiece and around the windows are floral motifs.
+        \n\nBetween the windows of the first floor I see the hearts above which are seen flower pots and flower bouquets.
+        The heart-shaped window in the upper register is surrounded by bouquets of flowers</string>
+    <string name="deutsch_house_title">Deutsch House</string>
+    <string name="deutsch_house_description"> Deutsch House is a historic monument building in Oradea.
+        \n\nIt was built between 1906 and 1910, after Sztarill Ferenc\'s project.
+        The entire facade of the two-story building is decorated with popular, floral motifs.
+        The upper part of the floor ends in semicircles, and in the middle there is a trilobal tympanum
+        with a window in the middle, in the shape of a rounded heart.</string>
+    <string name="fuchsl_house_title">Fuchsl Palace</string>
+    <string name="fuchsl_house_description">The historic monument building, located on Independentei 11-13,
+        known as the Fuchsl House, was built between 1902-1903.
+        The feature of this high-floor, two-storey building is the "mismatch" between its rectangular structure and the
+        curvilinear expression of the facades.
+        The rectangular structure is transvested in a curvilinear way through the sinusoidal cornice of the sheet and the
+        valved profile of the profile under the cornice. The facade is flat (only the corner is rounded and ends with a tower)
+        with rectangular windows, trapezoidal panels with reliefs. The windows of the attic have kidney-shaped windows.
+        The balcony of the balconies and the access portal are decorated with vegetal elements.</string>
+    <string name="ursuline_complex_title">Ursuline Complex</string>
+    <string name="ursuline_complex_description">The complex of the church and monastery features architectural elements both baroque
+        and romantic with Neo-Gothic influences. The construction seems to have been completed in 1877,
+        when the wings on the Calea Republicii are added to the current street of Moscow, no. 1-3, where the
+        "Ady Endre" High School currently operates.</string>
+    <string name="ortpalace_title">The diocese of Oradea</string>
+    <string name="ortpalace_description">This building was the palace of the famous architect, Rimanóczy Kálmán junior.
+        The edifice built in 1905 is part of the new wave of buildings built in the early twentieth century.
+        In 1921 the building was bought by the Orthodox Church. On the first floor there was a chapel.
+        In 1971 the building was renovated, the chandelier windows were changed with stained glass, the paintings were
+        restored, and what remained of the old palace - stoves and mural ornaments - were restored by specialists.
+        Next to the chapel is a museum, where objects of worship, old books, manuscripts, silverware, golden silverware,
+        icons on glass, paintings, etc. are displayed.</string>
+    <string name="med_faculty_title">The faculty of Medicine</string>
+    <string name="med_faculty_description">The building where the Faculty of Medicine Oradea currently operates,
+        Was built in eclectic style in 1894 by Rimanoczy Kalman Junior.
+        Here too, in the Cris area, they have editorial offices and cultural societies.</string>
+    <string name="astoria_hotel_title">Astoria Hotel</string>
+    <string name="astoria_hotel_description">It is an edifice that has not changed its destination over time.
+        The EMKE Hotel, since then, was designed by Sztarill Ferenc in 1902 in secession style with Gothic prints.
+        The building has a high ground floor where a café was set up, the favorite meeting place for writers, poets and journalists.
+        On the wall of the literary café a commemorative plaque informs us that it was the favorite place of the great Hungarian poet
+        Ady Endre, a prominent personality of the literary group who managed to print in 1908 the "A holnap" anthology.</string>
+    <string name="apollo_palace_title">Apollo Palace</string>
+    <string name="apollo_palace_description">The Apollo Palace was built between 1912-1914. In his style, the Berlin secession, has some
+        decorations that remind of the Empire style. This building is the last work of the renowned builder Rimanóczy Kálmán junior, who
+        died prematurely. At present, the ground floor of the building houses the Unique Store</string>
+    <string name="Rivo_resturant_title">Rivo Restaurant &amp; Lounge</string>
+    <string name="Rivo_restaurant_description">\"The place is amazing, a big terrace on the river, and in winter the full window wall give a comfortable harmful sensation even the restaurant look is of modern design.
+The hamburger with ceddar cheese, bacon and onions is very, very good.
+People are gentle and professional but when is full you should be patient. The reward will surely be the food.
+Nice place to return.\"</string>
+    <string name="spoon_restaurant_title">Spoon Restaurant</string>
+    <string name="spoon_restaurant_description">\"The first impression attracts people to come and have a sit.
+Chairs and sofas are tremendously comfortable, music is nice and not too heavy, and most of all the interior
+        decoration is outstanding!
+The menu is classic, with a lot of choice however.\"</string>
+    <string name="ristretto_title">Ristretto</string>
+    <string name="ristretto_description">Those guys and girls really take care of what they do.
+The coffe and cappuccino are equal and better than many you can find in Italy.
+The bar tender can explain you the techniques and the passion they put in their coffee products.
+Are also good the hot choccolates (but only in winter) and for summer time the cold lemonade with mint.</string>
+    <string name="corsarul_title">Corsarul</string>
+    <string name="corsarul_description">In Oradea, Corsar is known as one of the traditional restaurants in Oradea. Restaurant Corsar offers you both drinks and menus for the most refined
+        tastes, as well as a welcoming and experienced staff for your taste.</string>
+    <string name="american_grill_title">American Grill</string>
+    <string name="america_grill_description">American Grill is an American-style restaurant that wants to offer an alternative to eating in the city
+    (classic restaurants and fast-food restaurants), the fast-casted restaurant.</string>
+    <string name="hanul_cu_noroc_title">Hanul cu noroc</string>
+    <string name="hanul_cu_noroc_description">\"This is one of the best price/quality restaurants in town, a great variety of foods, serving is
+        not always perfect but overall its ok\"</string>
+    <string name="lactobar_title">Lactobar RetroBistro</string>
+    <string name="lactobar_description">Situated on the pedestrian street right in the heart of the city, Lactobar
+        Retro Bistro is a new concept for the Oradea market.
+        With a special design meant to remind us of the past and with a menu to suit, the locality attracts
+        a varied clientele.
+The locality seems to have an easy American, but we can find Romanian
+        specialties such as lard or eggplant.</string>
+    <string name="lords_title">Lord\'s Pub</string>
+    <string name="lords_description">\" The best place to spend your evenings. Great atmosphere created by the friendly people and the music played in there. From my point of view, i can say that this is the best pub in town.
+        I highly recommend at least a pint of Guinnes for a good beginning of your night.\"</string>
+    <string name="moscka_title">Moszkva Caffe</string>
+    <string name="mosca_description">\"It is a multicultural center, located in a beautiful but rundown Art Nouveau building in the city center a few meters from the theater. With is mismatched furniture and graffitis,it is very
+        popular among the younger generation. Excellent and affordable coctails.\"</string>
+    <string name="excess_title">Excess Whisky &amp; Bitter Bar</string>
+    <string name="excess_description">\"Amazing cocktails and drinks. Quality service. Skillful bartenders. A simple yet classy location. Great for a quick coffee, business meeting or a night out.\"</string>
+    <string name="life_title">Life Club</string>
+    <string name="life_description">The Life Club, set up in a building on Alexandru Vlahuţă Street, in the area where the former Traffic Club functioned until last year, is tailored to everyone\'s taste.
+Fridays are reserved for manele lovers, and Saturday evenings are dedicated to dancing, with dance evenings organized here. With a very special and elegant look, Club Life offers everything for everyone:
+        from manele and live music to clubbing music.</string>
+    <string name="select_poker_title">Select Poker Club</string>
+    <string name="select_poker_description">Select Poker Club Oradea is the ideal place where you can play 100% live poker with logistics and professional staff.
+Select Poker Club offers 9 permanent poker tables, of which 3 are cash and 6 tournaments. From Monday to Friday and Sunday are tournaments, including satellites
+        in PokerFest events, with which our club is an official partner, events in special or traditional formats such as Freezeout, Knockout, Deepstack Turbo, Win The Button, Omaha and so on.
+The club addresses both experienced players, those who are keen on big stakes, and beginners or small-scale recreational
+        players who just want to have fun at a table once in a while.</string>
+    <string name="green_title">Green Pub</string>
+    <string name="green_description">\"We met some friends for drinks here,being in Oradea overnight.
+The place is clean and the staff was kind.
+The beer cold..what else is there:-)\"</string>
+    <string name="black_title">Black Eagle Pub</string>
+    <string name="black_description">If you stay in the center of Oradea, you will discover the wonders of an authentic Irish pub. You will be glad and entertained with the best friends of relaxation:
+        Guinness beer, good music and incendiary atmosphere.</string>
+    <string name="double_hotel_title">DoubleTree by Hilton Hotel </string>
+    <string name="double_hotel_description">DoubleTree by Hilton Oradea is located in the green area of ​​one of the most beautiful cities in Romania, Oradea. Enjoy a delicious DoubleTree cookery at
+        the time of arrival and let our friendly staff drive you to your room or apartment. All the rooms in our hotel are modernly decorated with top-quality finishes, home-like internet access,
+        large TVs and spacious desks to provide you with a comfortable and relaxing stay. Swim in the hotel\'s indoor pool or relax in the hot tub.</string>
+    <string name="ramada_hotel_title">Ramada Hotel</string>
+    <string name="ramada_hotel_description">Hotel Ramada Oradea enjoys a convenient location in Oradea, less than a 2-minute drive from the historic city center, and offers free access to the Riserva Wine Spa,
+        which includes a fitness center, 2 saunas, a salt cave, A seating room and a terrace with 2 jacuzzis and panoramic views of the old town. Free WiFi is available in all areas.</string>
+    <string name="continental_forum_title">Continental Forum Hotel</string>
+    <string name="continental_forum_description">Continental Forum Oradea is a 4-star hotel in Oradea, located right in the city center and also the largest hotel in Oradea. The hotel offers high quality accommodation in Oradea,
+        being one of the most famous hotels in Oradea. Once you have crossed the threshold, you will be convinced of the quality of its services.</string>
+    <string name="astoria_hotel_hotel_description">Hotel Astoria Oradea, a superb 4 star hotel, built in a perfect place: in the city center. You can enjoy a breathtaking panorama of historic buildings such as the Regina Maria Theater,
+    Poynar House and Hotel Transilvania.</string>
+    <string name="elite_hotel_title"> Elite Hotel</string>
+    <string name="elite_hotel_description">Quietly located in Oradea\'s I.C.Brătianu Park, Elite Hotel has a thermal pool and free Wi-Fi.
+        The rooms are stylish and air-conditioned.
+Rich breakfast buffets are served in the breakfast room. Breakfast can also be brought to your room.
+The Elite Hotel\'s pool has free access. The hot tub offers free access from 18:00 to 20:00. It is located inside.</string>
+    <string name="class_hotel_title">Class Hotel</string>
+    <string name="class_hotel_description">Class Hotel enjoys a quiet location, 1.5 km from the center of Oradea. It features a sauna and an outdoor pool.
+        It offers free Wi-Fi and free on-site parking.
+All rooms have air conditioning, private bathroom, cable TV and a balcony.</string>
+    <string name="robinson_title">Robinson Country</string>
+    <string name="robinson_description">At the entrance under the wooden pod is a small lake, populated with exotic fish andwater lilies.
+        Camping Robinson Country, Oradea,
+The pool is surrounded by five cottages.
+The swimming pool also functions as a swimming pool.
+        The entrance ticket is 30 lei, the whole amount is consumable in the bar or in the camping restaurant.</string>
+    <string name="nymphaea_title">Nymphaea Aquapark</string>
+    <string name="nymphaea_description">Discover the largest Aquapark in this region of Europe, the Nymphaea Aquapark. Spread over an area of 7 hectares, it will bring you into the fascinating world of fun and adrenaline.
+        A new way to get rid of the alert and stressful pace of the city will conquer you in the first few moments.</string>
+    <string name="historic">"Historical\nPlaces</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="night_life">NightLife</string>
+    <string name="hotels">Hotels</string>
+</resources>
